@@ -26,6 +26,9 @@ namespace WindowsFormsApplication1
 
             e.Graphics.DrawImage(bit, 0, 0);
 
+            //git test
+            //asdsdasd
+
         }
 
     }
